@@ -1,0 +1,29 @@
+/* fonts awesome import link  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+}
+/* banner section style  */
+.banner-section{
+    background-color:#000000;
+
+}
+.fa-star.filled{
+    color: #E77C40;
+ }
+ .fa-star.empty{
+    color: #E77C40;
+ }
+
+.bike-style:hover{
+
+    transition: 1.7s;
+    transform: scale(1.1);
+   
+}
+.card-title{
+     font-weight: bold;
+
+}
